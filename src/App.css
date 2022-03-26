@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.photoImage{
+  position: absolute;
+  margin-top: 150px;
+}
+
+
+
+
